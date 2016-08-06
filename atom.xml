@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://jonasagx.github.io/"/>
   <updated>2016-08-06T22:44:34.923Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://jonasagx.github.io/</id>
   
   <author>
     <name>Jonas Xavier</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>The sense of an ending -- highlights</title>
-    <link href="http://yoursite.com/2016/08/06/The-sense-of-an-ending-highlights/"/>
-    <id>http://yoursite.com/2016/08/06/The-sense-of-an-ending-highlights/</id>
+    <link href="http://jonasagx.github.io/2016/08/06/The-sense-of-an-ending-highlights/"/>
+    <id>http://jonasagx.github.io/2016/08/06/The-sense-of-an-ending-highlights/</id>
     <published>2016-08-06T21:57:24.000Z</published>
     <updated>2016-08-06T22:44:34.923Z</updated>
     
@@ -180,14 +180,14 @@
     </summary>
     
     
-      <category term="book" scheme="http://yoursite.com/tags/book/"/>
+      <category term="book" scheme="http://jonasagx.github.io/tags/book/"/>
     
   </entry>
   
   <entry>
     <title>Starting this blog</title>
-    <link href="http://yoursite.com/2016/08/06/hello-world/"/>
-    <id>http://yoursite.com/2016/08/06/hello-world/</id>
+    <link href="http://jonasagx.github.io/2016/08/06/hello-world/"/>
+    <id>http://jonasagx.github.io/2016/08/06/hello-world/</id>
     <published>2016-08-06T21:40:37.312Z</published>
     <updated>2016-08-06T21:40:37.246Z</updated>
     
