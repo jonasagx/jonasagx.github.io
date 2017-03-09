@@ -1,0 +1,159 @@
+* {
+	margin: 0;
+	padding: 0;
+	outline: none;
+	border: 0;
+	text-decoration: none;
+	transition: color .15s linear, position .15s linear, background-color .15s linear, opacity .15s linear;
+	-webkit-transition: color .15s linear, position .15s linear, background-color .15s linear, opacity .15s linear;
+}
+
+header, nav, section, article, aside {
+	display: block !important;
+}
+
+body {
+	font-family: 'proxima-nova', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	font-size: 23.2px;
+	line-height: 1.48em;
+	letter-spacing: 0.25px;
+	background-color: #FFF;
+	color: #2F394E;
+	padding-top: 1%;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+}
+
+.clear {
+	clear: both;
+}
+
+h1 {
+	font-size: 3em;
+	line-height: .9em;
+	margin-bottom: .14em;
+	font-weight: 900;
+	display: block;
+}
+
+p {
+	margin-bottom: 1em;
+}
+
+ul, ol {
+	list-style: none;
+	list-style-position: inside;
+}
+
+p a {
+	color: #4A565C;
+	border-bottom: 1px solid #ddd;
+}
+
+a.tweet {
+	font-weight: bold;
+	color: #fff;
+	font-size: 1.3em;
+	line-height: 1.4em;
+	background-color: #81DBBF;
+}
+
+.wrapper {
+	display: block;
+	width: 100%;
+	max-width: 1800px;
+	margin: 0 auto;
+}
+
+.about {
+	width: 50%;
+	min-width: 420px;
+}
+
+#header, header {
+	width: 70% !important;
+	text-align: left;
+	padding-top: 3em;
+}
+
+#containment-box {
+	display: block;
+	width: 100%;
+	margin: 0 auto;
+	/* background-color: #f8f8f8; */
+}
+
+.projectblock {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.portrait {
+	display: block;
+	width: 125px;
+	border-radius: 100%;
+	margin: 1em auto;
+}
+
+.item, .item .w2 {
+	/* padding: 0.25%; */
+}
+
+.item {
+	width: 20%;
+	float: left;
+	display: inline;
+}
+
+.item.w2 {
+	width: 50%;
+	float: left;
+	display: inline;
+}
+
+footer {
+	display: block;
+	width: 95%;
+	max-width: 1800px;
+	margin: 2em auto;
+	text-align: center;
+	font-size: .9em;
+}
+
+@media all and (max-width: 1100px) {
+	h1 {
+		font-size: 4em;
+	}
+}
+
+@media all and (max-width: 960px) {
+	h1 {
+		font-size: 3em;
+	}
+}
+
+@media all and (max-width: 850px) {
+	h1 {
+		font-size: 2em;
+	}
+
+	.item {
+		width: 50%;
+	}
+	
+	.item.w2 {
+		width: 100%;
+	}
+}
+
+@media all and (max-width: 600px) {
+	h1 {
+		font-size: 2em;
+	}
+
+	.item, .item.w2 {
+		width: 100%;
+	}
+}
