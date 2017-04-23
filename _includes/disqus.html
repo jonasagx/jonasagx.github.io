@@ -1,9 +1,9 @@
-
+{% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
-this.page.url = "jonasagx.github.io/book/2017/01/09/algorithms-to-live-by.html"; // <--- use canonical URL
-this.page.identifier = "/book/2017/01/09/algorithms-to-live-by";
+this.page.url = "jonasagx.github.io{{ page.url }}"; // <--- use canonical URL
+this.page.identifier = "{{ page.id }}";
 };
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
@@ -15,5 +15,4 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-
-
+{% endif %}

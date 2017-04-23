@@ -3,6 +3,7 @@ layout: post
 title:  "Algorithms to Live By - my highlights from the book "
 date:   2017-01-09 10:41:32 -0700
 categories: book
+comments: true
 ---
 
 It was one of the best books I read in 2016. The connection of computer science and everyday life is fascinating. It resembles a thing I love about math: it's capacity to describe complex things in a simple and detailed way. I will read this book again and again according to what I am solving in matters of work of life in general.
