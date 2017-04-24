@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "WYSIATI - What you see is all there is"
+date:   2017-01-09 10:41:32 -0700
+categories: think
+---
+
+_What you see is all there is_ was introduced (to me) in the book  _Thinking fast and slow_ by Daniel Kahneman. The author talks about the idea that humans are good making sense of information even when the information available it not enough. It means I am pretty bad telling what I don't know on some matter, like deciding if I should vote for politician A or B.
+
+"It is the consistency of the information that matters for a good story, not its completeness."
+
+Picture this: I am in a restaurant and say the food in the menu is all there is to eat in the whole world. It's crazy and is everywhere because it is human bias. It makes me think _how can I pay more attention to what I don't know?_ also _when am I making things up with what I have in front of me?_
+
+Have a good Monday,
+Jonas

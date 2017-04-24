@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Algorithms to Live By - my highlights from the book "
+title:  "Algorithms to Live By - my highlights from the book"
 date:   2017-01-09 10:41:32 -0700
 categories: book
 ---
