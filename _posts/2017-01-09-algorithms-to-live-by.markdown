@@ -34,3 +34,7 @@ Page 34:
 Page 35:
 
 *The flip side is that the value of exploitation can only go up over time. The loveliest café that you know about today is, by definition, at least as lovely as the loveliest café you knew about last month. (And if you’ve found another favorite since then, it might just be more so.) So explore when you will have time to use the resulting knowledge, exploit when you’re ready to cash in. The interval makes the strategy.*
+
+Page 36:
+
+*From a studio’s perspective, a sequel is a movie with a guaranteed fan base: a cash cow, a sure thing, an exploit. And an overload of sure things signals a short-termist approach, as with Stucchio on his way out of town. The sequels are more likely than brand-new movies to be hits this year, but where will the beloved franchises of the future come from? Such a sequel deluge is not only lamentable (certainly critics think so); it’s also somewhat poignant. By entering an almost purely exploit-focused phase, the film industry seems to be signaling a belief that it is near the end of its interval*
