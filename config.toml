@@ -8,7 +8,7 @@ baseURL = "http://jonasagx.github.io"
 copyright = "Jonas © {year}"
 
 # hack for github
-publishDir: "docs"
+# publishDir: "docs"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
