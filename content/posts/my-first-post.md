@@ -1,7 +1,6 @@
 ---
 title: "Hello world"
 date: 2021-01-08T18:45:15-08:00
-draft: false
 tag: write
 ---
 
