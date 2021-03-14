@@ -1,8 +1,3 @@
-/*
-* @name Drawing
-* @description Generative painting program.
-*/
-
 // All the paths
 let paths = [];
 // Are we painting?
@@ -15,7 +10,7 @@ let previous;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  textFont(inconsolata);
+  // textFont(inconsolata);
   textSize(displayWidth / 30);
   textAlign(CENTER, CENTER);
   current = createVector(0,0);
@@ -142,10 +137,10 @@ class Particle {
 
 let messages = ["<3", "Te amo", "Beijos", "GG", "Meu irmao"];
 
-let inconsolata;
-function preload() {
-  inconsolata = loadFont('fonts/inconsolata.otf');
-}
+// let inconsolata;
+// function preload() {
+//   inconsolata = loadFont('fonts/inconsolata.otf');
+// }
 
 // function setup() {
 //   createCanvas(800, 800);
