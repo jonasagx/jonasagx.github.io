@@ -11,7 +11,7 @@ let previous;
 function setup() {
   createCanvas(windowWidth, windowHeight);
   // textFont(inconsolata);
-  textSize(displayWidth / 30);
+  textSize(displayWidth / 20);
   textAlign(CENTER, CENTER);
   current = createVector(0,0);
   previous = createVector(0,0);
