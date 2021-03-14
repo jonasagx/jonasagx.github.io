@@ -135,36 +135,4 @@ class Particle {
   }
 }
 
-let messages = ["<3", "Te amo", "Beijos", "GG", "Meu irmao"];
-
-// let inconsolata;
-// function preload() {
-//   inconsolata = loadFont('fonts/inconsolata.otf');
-// }
-
-// function setup() {
-//   createCanvas(800, 800);
-//   textFont(inconsolata);
-//   textSize(width / 12);
-//   textAlign(CENTER, CENTER);
-// }
-
-// function draw() {
-//   background(0);
-//   showMessage();
-//   fireworks();
-// }
-
-// function fireworks() {
-//   circle(30, 30, 20);
-// }
-
-// function showMessage() {
-//   let time = millis();
-//   // rotateX(time / 1234);
-//   // rotateY(time / 5000);
-//   // rotateZ(time / 5000);
-//   console.log(time)
-//   text('Feliz aniversario George! <3', time % width, time % height);  
-// }
-
+let messages = ["<3", "Te amo", "Beijos", "GG", "Meu irmao", "Happy birthday!", "!", "17-03", "Oi", "Ate daqui a pouco", "Lindo", "Persistente", "Focado", "17"];
