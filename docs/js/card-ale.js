@@ -94,8 +94,8 @@ class Path {
         this.particles.splice(i, 1);
       // Otherwise, display it
       } else {
-        this.particles[i].display();
-        // this.particles[i].display(this.particles[i+1]);
+        // this.particles[i].display();
+        this.particles[i].display(this.particles[i+1]);
       }
     }
   
@@ -129,9 +129,9 @@ class Particle {
     // ellipse(this.position.x,this.position.y, 8, 8);    
     text(this.message, this.position.x, this.position.y)    
     // If we need to draw a line
-    // if (other) {
-    //   line(this.position.x, this.position.y, other.position.x, other.position.y);
-    // }
+    if (other) {
+      line(this.position.x, this.position.y, other.position.x, other.position.y);
+    }
   }
 }
 
