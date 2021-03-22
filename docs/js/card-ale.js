@@ -37,7 +37,7 @@ function draw() {
     paths[paths.length - 1].add(current, force);
     
     // Schedule next circle
-    next = millis() + random(100);
+    next = millis() + 100 + random(100);
 
     // Store mouse values
     previous.x = current.x;
@@ -125,7 +125,11 @@ class Particle {
   // Draw a line to another
   display(other) {
     stroke(0, this.lifespan);
-    fill(0, this.lifespan/2);    
+    fill(
+      random(256)*this.lifespan/128,
+      random(256)*this.lifespan/128,
+      random(256)*this.lifespan/128,
+      );    
     // ellipse(this.position.x,this.position.y, 8, 8);    
     text(this.message, this.position.x, this.position.y)    
     // If we need to draw a line
